@@ -1,0 +1,13 @@
+*.exe
+logs/
+*.tmp
+task/
+cmd/linux/
+.idea
+cmd/api/api
+go.mod
+go.sum
+vendor
+log
+cmd/worker/wk
+build/
