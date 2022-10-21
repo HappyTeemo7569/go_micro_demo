@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74c8651-6877-4e1c-ab3c-7c0c0ea2640a" name="默认更改列表" comment="feat：game" />
+    <list default="true" id="f74c8651-6877-4e1c-ab3c-7c0c0ea2640a" name="默认更改列表" comment="feat：v1">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +85,8 @@
     <MESSAGE value="feat：换成go-zero" />
     <MESSAGE value="feat：user demo" />
     <MESSAGE value="feat：game" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：game" />
+    <MESSAGE value="feat：v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：v1" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
