@@ -8,5 +8,4 @@ cmd/api/api
 go.sum
 vendor
 log
-cmd/worker/wk
 build/
